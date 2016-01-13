@@ -1,3 +1,4 @@
+; vi:filetype=nasm
 section .multiboot_header
 header_start:
     dd 0xe85250d6                ; magic number (multiboot 2)

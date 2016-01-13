@@ -1,3 +1,4 @@
+; vi:filetype=nasm
 global _start
 
 section .text
